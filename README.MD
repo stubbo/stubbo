@@ -1,4 +1,7 @@
 ### 👋👋👋
+
+haha  im stubbo and im bad
+
 <!--START_SECTION:waka-->
 ```text
 TypeScript   9 hrs 37 mins   ████████░░░░░░░░░░░░░░░░░   31.35 % 
