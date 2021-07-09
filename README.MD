@@ -8,3 +8,5 @@ Other            3 hrs 48 mins   █▓░░░░░░░░░░░░░�
 JavaScript       3 hrs 20 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
 ```
 <!--END_SECTION:waka-->
+
+![](https://github.com/stubbo/stubbo/raw/output/github-snake.gif)
